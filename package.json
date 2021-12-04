@@ -2,7 +2,7 @@
   "name": "backend_guitar-hub",
   "private": true,
   "scripts": {
-    "dev": "keystone-next",
+    "start": "keystone-next",
     "seed-data": "keystone-next --seed-data"
   },
   "dependencies": {
