@@ -2,6 +2,14 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+<<<<<<< HEAD
   "/products": "pages/products.js",
   "/products/[id]": "pages/products/[id].js"
+=======
+<<<<<<< HEAD
+=======
+  "/": "pages/index.js",
+>>>>>>> e57a6fe3b5f9d72ce359177d4bc015c3537613f7
+  "/products": "pages/products.js"
+>>>>>>> 4f901a77209e6983dd5dde93181af1d8742f69ea
 }
