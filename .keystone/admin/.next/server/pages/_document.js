@@ -94,9 +94,9 @@ module.exports =
 /******/ ({
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_document.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/alex/Projects/Guitar-shop/backend_guitar-hub/node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_document.js ***!
-  \******************************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/alex/Projects/Guitar-shop/backend-GuitPro/node_modules/@keystone-next/admin-ui/node_modules/next/dist/pages/_document.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -106,14 +106,14 @@ eval("\n\nfunction ownKeys(object, enumerableOnly) { var keys = Object.keys(obje
 /***/ }),
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/server/htmlescape.js":
-/*!********************************************************************************************************************************************!*\
-  !*** /Users/alex/Projects/Guitar-shop/backend_guitar-hub/node_modules/@keystone-next/admin-ui/node_modules/next/dist/server/htmlescape.js ***!
-  \********************************************************************************************************************************************/
+/*!*****************************************************************************************************************************************!*\
+  !*** /Users/alex/Projects/Guitar-shop/backend-GuitPro/node_modules/@keystone-next/admin-ui/node_modules/next/dist/server/htmlescape.js ***!
+  \*****************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
-eval("exports.__esModule=true;exports.htmlEscapeJsonString=htmlEscapeJsonString;// This utility is based on https://github.com/zertosh/htmlescape\n// License: https://github.com/zertosh/htmlescape/blob/0527ca7156a524d256101bb310a9f970f63078ad/LICENSE\nconst ESCAPE_LOOKUP={'&':'\\\\u0026','>':'\\\\u003e','<':'\\\\u003c','\\u2028':'\\\\u2028','\\u2029':'\\\\u2029'};const ESCAPE_REGEX=/[&><\\u2028\\u2029]/g;function htmlEscapeJsonString(str){return str.replace(ESCAPE_REGEX,match=>ESCAPE_LOOKUP[match]);}\n//# sourceMappingURL=htmlescape.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL1VzZXJzL2FsZXgvUHJvamVjdHMvR3VpdGFyLXNob3AvYmFja2VuZF9ndWl0YXItaHViL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9odG1sZXNjYXBlLmpzPzNlNDgiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQWEsd0JBQXdCLGtEQUFrRDtBQUN2RjtBQUNBLHFCQUFxQixpRkFBaUYsd0NBQXdDLG1DQUFtQztBQUNqTCIsImZpbGUiOiIuLi8uLi9ub2RlX21vZHVsZXMvQGtleXN0b25lLW5leHQvYWRtaW4tdWkvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9zZXJ2ZXIvaHRtbGVzY2FwZS5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlwidXNlIHN0cmljdFwiO2V4cG9ydHMuX19lc01vZHVsZT10cnVlO2V4cG9ydHMuaHRtbEVzY2FwZUpzb25TdHJpbmc9aHRtbEVzY2FwZUpzb25TdHJpbmc7Ly8gVGhpcyB1dGlsaXR5IGlzIGJhc2VkIG9uIGh0dHBzOi8vZ2l0aHViLmNvbS96ZXJ0b3NoL2h0bWxlc2NhcGVcbi8vIExpY2Vuc2U6IGh0dHBzOi8vZ2l0aHViLmNvbS96ZXJ0b3NoL2h0bWxlc2NhcGUvYmxvYi8wNTI3Y2E3MTU2YTUyNGQyNTYxMDFiYjMxMGE5Zjk3MGY2MzA3OGFkL0xJQ0VOU0VcbmNvbnN0IEVTQ0FQRV9MT09LVVA9eycmJzonXFxcXHUwMDI2JywnPic6J1xcXFx1MDAzZScsJzwnOidcXFxcdTAwM2MnLCdcXHUyMDI4JzonXFxcXHUyMDI4JywnXFx1MjAyOSc6J1xcXFx1MjAyOSd9O2NvbnN0IEVTQ0FQRV9SRUdFWD0vWyY+PFxcdTIwMjhcXHUyMDI5XS9nO2Z1bmN0aW9uIGh0bWxFc2NhcGVKc29uU3RyaW5nKHN0cil7cmV0dXJuIHN0ci5yZXBsYWNlKEVTQ0FQRV9SRUdFWCxtYXRjaD0+RVNDQVBFX0xPT0tVUFttYXRjaF0pO31cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPWh0bWxlc2NhcGUuanMubWFwIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/server/htmlescape.js\n");
+eval("exports.__esModule=true;exports.htmlEscapeJsonString=htmlEscapeJsonString;// This utility is based on https://github.com/zertosh/htmlescape\n// License: https://github.com/zertosh/htmlescape/blob/0527ca7156a524d256101bb310a9f970f63078ad/LICENSE\nconst ESCAPE_LOOKUP={'&':'\\\\u0026','>':'\\\\u003e','<':'\\\\u003c','\\u2028':'\\\\u2028','\\u2029':'\\\\u2029'};const ESCAPE_REGEX=/[&><\\u2028\\u2029]/g;function htmlEscapeJsonString(str){return str.replace(ESCAPE_REGEX,match=>ESCAPE_LOOKUP[match]);}\n//# sourceMappingURL=htmlescape.js.map//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vL1VzZXJzL2FsZXgvUHJvamVjdHMvR3VpdGFyLXNob3AvYmFja2VuZC1HdWl0UHJvL25vZGVfbW9kdWxlcy9Aa2V5c3RvbmUtbmV4dC9hZG1pbi11aS9ub2RlX21vZHVsZXMvbmV4dC9kaXN0L3NlcnZlci9odG1sZXNjYXBlLmpzPzRkZmQiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQWEsd0JBQXdCLGtEQUFrRDtBQUN2RjtBQUNBLHFCQUFxQixpRkFBaUYsd0NBQXdDLG1DQUFtQztBQUNqTCIsImZpbGUiOiIuLi8uLi9ub2RlX21vZHVsZXMvQGtleXN0b25lLW5leHQvYWRtaW4tdWkvbm9kZV9tb2R1bGVzL25leHQvZGlzdC9zZXJ2ZXIvaHRtbGVzY2FwZS5qcy5qcyIsInNvdXJjZXNDb250ZW50IjpbIlwidXNlIHN0cmljdFwiO2V4cG9ydHMuX19lc01vZHVsZT10cnVlO2V4cG9ydHMuaHRtbEVzY2FwZUpzb25TdHJpbmc9aHRtbEVzY2FwZUpzb25TdHJpbmc7Ly8gVGhpcyB1dGlsaXR5IGlzIGJhc2VkIG9uIGh0dHBzOi8vZ2l0aHViLmNvbS96ZXJ0b3NoL2h0bWxlc2NhcGVcbi8vIExpY2Vuc2U6IGh0dHBzOi8vZ2l0aHViLmNvbS96ZXJ0b3NoL2h0bWxlc2NhcGUvYmxvYi8wNTI3Y2E3MTU2YTUyNGQyNTYxMDFiYjMxMGE5Zjk3MGY2MzA3OGFkL0xJQ0VOU0VcbmNvbnN0IEVTQ0FQRV9MT09LVVA9eycmJzonXFxcXHUwMDI2JywnPic6J1xcXFx1MDAzZScsJzwnOidcXFxcdTAwM2MnLCdcXHUyMDI4JzonXFxcXHUyMDI4JywnXFx1MjAyOSc6J1xcXFx1MjAyOSd9O2NvbnN0IEVTQ0FQRV9SRUdFWD0vWyY+PFxcdTIwMjhcXHUyMDI5XS9nO2Z1bmN0aW9uIGh0bWxFc2NhcGVKc29uU3RyaW5nKHN0cil7cmV0dXJuIHN0ci5yZXBsYWNlKEVTQ0FQRV9SRUdFWCxtYXRjaD0+RVNDQVBFX0xPT0tVUFttYXRjaF0pO31cbi8vIyBzb3VyY2VNYXBwaW5nVVJMPWh0bWxlc2NhcGUuanMubWFwIl0sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/server/htmlescape.js\n");
 
 /***/ }),
 

@@ -1,9 +1,9 @@
 (window["webpackJsonp_N_E"] = window["webpackJsonp_N_E"] || []).push([[0],{
 
 /***/ "../../node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js":
-/*!******************************************************************************************************************************************!*\
-  !*** /Users/alex/Projects/Guitar-shop/backend_guitar-hub/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
-  \******************************************************************************************************************************************/
+/*!***************************************************************************************************************************************!*\
+  !*** /Users/alex/Projects/Guitar-shop/backend-GuitPro/node_modules/@keystone-next/admin-ui/node_modules/next/dist/client/dev/noop.js ***!
+  \***************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
