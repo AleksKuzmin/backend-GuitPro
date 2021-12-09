@@ -12,8 +12,7 @@ import { insertSeedData } from "./seed-data";
 import { CartItem } from "./schemas/CartItem";
 
 const databaseURL =
-  process.env.DATABASE_URL ||
-  "mongodb+srv://Angie:chicken99@cluster0.5j3fm.mongodb.net/sickfits?retryWrites=true&w=majority";
+  process.env.DATABASE_URL || "mongodb://localhost/backend_guitar-hub";
 
 const sessionConfig = {
   maxAge: 60 * 60 * 24 * 360, // how long signed in?
