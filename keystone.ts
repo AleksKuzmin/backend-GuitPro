@@ -9,6 +9,7 @@ import {
   statelessSessions,
 } from "@keystone-next/keystone/session";
 import { insertSeedData } from "./seed-data";
+import { CartItem } from "./schemas/CartItem";
 
 const databaseURL =
   process.env.DATABASE_URL ||
@@ -51,6 +52,7 @@ export default withAuth(
       User,
       Product,
       ProductImage,
+      CartItem,
     }),
     ui: {
       isAccessAllowed: (context) => true,
